@@ -7,6 +7,8 @@ la riqueza cultural, histórica y natural de los 12 pueblos originarios de la Al
 Milpa Alta, facilitando recorridos virtuales por sitios de interés como museos,
 parques, reservas y festividades tradicionales.
 
+VIDEO DE APP FUNCIONANDO: https://itmilpaalta-my.sharepoint.com/:v:/g/personal/l211070054_milpaalta_tecnm_mx/IQB0-qnlCX20Sr4Y3gZF7v41AVluJJ6hbWRmAwXg_wOKdrE 
+
 Capturas de Pantalla.
 
 
