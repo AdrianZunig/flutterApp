@@ -8,4 +8,6 @@ Milpa Alta, facilitando recorridos virtuales por sitios de interés como museos,
 parques, reservas y festividades tradicionales.
 
 Capturas de Pantalla.
+
+
 ![image alt](https://github.com/AdrianZunig/flutterApp/blob/49d99eb7d055709c8f4dab2e1c5d0ca675e7bf93/capturasApp_funcional/01_splashScreen.png)
