@@ -1,4 +1,4 @@
-# flutterApp
+# Milpa AR
 Aplicación móvil con AR (Realidad Aumentada).
 El presente proyecto de residencia profesional tiene como finalidad el diseño y
 desarrollo de una aplicación híbrida interactiva, la cual integra tecnología de
