@@ -9,6 +9,11 @@ parques, reservas y festividades tradicionales.
 
 VIDEO DE APP FUNCIONANDO: https://drive.google.com/file/d/1bzsIhhNKozuoIrW7qkTO0L22xtHmkEVV/view?usp=sharing
 
+Características de la app:
+- Versión de Android minima 7.0
+- Contenido offline de la app: audios, modelos 3d, información e imagenes.
+- Requiere conexión a internet para la experiencia AR (realidad aumentada). 
+
 Capturas de Pantalla.
 
 
